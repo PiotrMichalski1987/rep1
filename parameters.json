@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "components_PipelineApp1_name": {
+            "value": null
+        },
+        "workspaces_defaultworkspace_bb53486e_3749_4f08_a0c5_50582b780502_cus_externalid": {
+            "value": null
+        }
+    }
+}
