@@ -9,8 +9,8 @@ steps:
   displayName: 'Run a one-line script'
 
 - script:
-    #echo Add other tasks to build, test, and deploy your project.
-    #echo See https://aka.ms/yaml
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
 - task: AzureResourceManagerTemplateDeployment@3
@@ -25,7 +25,5 @@ steps:
     csmFileLink: 'https://github.com/PiotrMichalski1987/rep1/blob/master/template.json'
     csmParametersFileLink: 'https://github.com/PiotrMichalski1987/rep1/blob/master/parameters.json'
     deploymentMode: 'Validation'
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+
 
