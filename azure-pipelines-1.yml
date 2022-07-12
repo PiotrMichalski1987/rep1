@@ -23,7 +23,7 @@ steps:
     location: 'UK West'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/PiotrMichalski1987/rep1/master/template.json'
-    csmParametersFileLink: 'https://raw.githubusercontent.com/PiotrMichalski1987/rep1/master/parameters.json'
+    #csmParametersFileLink: 'https://raw.githubusercontent.com/PiotrMichalski1987/rep1/master/parameters.json'
     deploymentMode: 'Validation'
 
 
