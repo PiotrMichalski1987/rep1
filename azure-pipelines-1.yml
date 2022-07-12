@@ -22,8 +22,8 @@ steps:
     resourceGroupName: 'DefaultResourceGroup-CUS'
     location: 'UK West'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/PiotrMichalski1987/rep1/blob/master/template.json'
-    csmParametersFileLink: 'https://github.com/PiotrMichalski1987/rep1/blob/master/parameters.json'
+    csmFileLink: 'https://raw.githubusercontent.com/PiotrMichalski1987/rep1/master/template.json'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/PiotrMichalski1987/rep1/master/parameters.json'
     deploymentMode: 'Validation'
 
 
